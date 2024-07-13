@@ -150,7 +150,7 @@ if(isset($_POST['delete_article']))
                                                     <li><a href="#">Dresses</a></li>
                                                     <li><a href="#">Shirts</a></li>
                                                     <li><a href="#">T-shirts</a></li>
-                                                    <li><a href="#">Jeans</a></li>
+                                                    <li><a href="#">Jeans mini</a></li>
                                                 </ul>
                                             </div>
                                         </div>
