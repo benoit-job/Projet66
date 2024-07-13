@@ -59,7 +59,7 @@
                 <div class="col-lg-6">
                 <div class="card">
                         <div class="card-body">
-                            <h6 class="card-title"><a href="register_client.php">INSCRIPTION CLIENT</a></h6>
+                            <h6 class="card-title"><a href="register_client.php">INSCRIPTION DES CLIENT</a></h6>
                         </div>
                     </div>
                 </div>
